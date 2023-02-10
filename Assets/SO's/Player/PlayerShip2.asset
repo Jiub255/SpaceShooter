@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08001d2bf2f924141bfb1ec41b5cc709, type: 3}
+  m_Name: PlayerShip2
+  m_EditorClassIdentifier: 
+  shipName: 
+  playerShip: {fileID: 3552970632161431170, guid: 9711cfcc6ced6e44ca72a60303feb89f, type: 3}
+  guns:
+  - {fileID: 7279832514110973077, guid: f7ffc26ae5cb6434f9205584317557c0, type: 3}
+  - {fileID: 7927479657611968936, guid: a90cd4608b635544682ccb3b2370cd5a, type: 3}
+  - {fileID: 7279832514110973077, guid: f7ffc26ae5cb6434f9205584317557c0, type: 3}
+  shipOwned: 1
+  currentShipIndex: 0
+  shipCurrentHealth: 100
+  shipMaxHealth: 100

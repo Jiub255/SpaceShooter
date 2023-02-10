@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Coin
+  - EnemyBullet
+  - Border
+  - Star
+  - Bomb
+  - Enemy1
+  - Enemy2
+  - Boss1
+  - EnemyBomb
+  - HUD
+  - EnemyBulletSmall
+  - Boss2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - OnlyCollideWithPlayer
+  - Enemy
+  - PlayerProjectile
+  - OnlyCollideWithProjectiles
+  - NoCollide
+  - Border
+  - StarKiller
+  - PlayerOrEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1209140321
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

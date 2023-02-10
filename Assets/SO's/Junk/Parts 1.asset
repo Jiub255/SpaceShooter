@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ab2d09988d995b41bd450c1384fed36, type: 3}
+  m_Name: Parts 1
+  m_EditorClassIdentifier: 
+  nose: {fileID: 11400000, guid: 9281d764930e16e459fd5ee7fcbdd384, type: 2}
+  rightWing: {fileID: 0}
+  leftWing: {fileID: 0}
+  body: {fileID: 11400000, guid: d88235fbfa5155f49acc210a7173a3ca, type: 2}
+  tail: {fileID: 0}
